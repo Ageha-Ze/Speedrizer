@@ -13,7 +13,7 @@ const tracks = [
   { title: "Chain Engine N Thunder", meta: "02:58", file: "/media/01-chain-engine-n-thunder.mp3", code: "SR-01" },
   { title: "Chrome in the Blood, Broken 'N Chains", meta: "03:12", file: "/media/02-chrome-blood-broken-chains.mp3", code: "SR-02" },
   { title: "Feed The Machine", meta: "02:46", file: "/media/03-feed-the-machine.mp3", code: "SR-03" },
-  { title: "Motor Speed 'N Roll", meta: "02:17", file: "/media/04-motor-speed-n-roll.mp3", code: "SR-04" },
+  { title: "Motör Speed 'N Roll", meta: "02:17", file: "/media/04-motor-speed-n-roll.mp3", code: "SR-04" },
   { title: "Raising The Speed", meta: "03:06", file: "/media/05-raising-the-speed.mp3", code: "SR-05" },
   { title: "Ride To Live", meta: "02:51", file: "/media/06-ride-to-live.mp3", code: "SR-06" },
   { title: "We Don't Sucks Anything", meta: "02:33", file: "/media/07-we-dont-sucks-anything.mp3", code: "SR-07" },
