@@ -169,7 +169,7 @@ export default function Home() {
           <video ref={videoRef} className="hero-video" src={ASSET.video} autoPlay muted loop playsInline aria-label="Speedrizer motor-speed rock visual" />
           <div className="hero-vignette" />
           <div className="hero-scanlines" aria-hidden="true" />
-          <div className="hero-topline"><span>EST. 2024 / IDN</span><span>BLACKTOP VOLTAGE</span></div>
+          <div className="hero-topline"><span>EST. 2024 / IDN</span><span>Motör Speed 'N Roll</span></div>
           <div className="hero-copy">
             <div className="hero-kicker"><span className="slash" /> NO SLOW SONGS / NO SOFT EDGES</div>
             <div className="logo-lockup">
