@@ -277,7 +277,7 @@ export default function Home() {
 
       <div className="now-playing" aria-live="polite">
         <div className={`now-playing-art ${activeTrack !== null ? "is-visible" : ""}`}><Disc3 size={16} /></div>
-        <div className="now-playing-copy"><span>{activeTrack !== null ? "NOW PLAYING" : "SELECT A TRACK"}</span><strong>{activeTrackData?.title ?? "SPEEDRIZER / BLACKTOP VOLTAGE"}</strong></div>
+        <div className="now-playing-copy"><span>{activeTrack !== null ? "NOW PLAYING" : "SELECT A TRACK"}</span><strong>{activeTrackData?.title ?? "Speedrizër / Motör Speed 'N Roll"}</strong></div>
         {activeTrack !== null && <button onClick={toggleAudio} aria-label={isPlaying ? "Pause track" : "Play track"}>{isPlaying ? <Pause size={15} fill="currentColor" /> : <Play size={15} fill="currentColor" />}</button>}
         <div className="now-playing-progress"><span style={{ transform: `scaleX(${duration ? currentTime / duration : 0})` }} /></div>
       </div>
